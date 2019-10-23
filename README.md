@@ -20,5 +20,5 @@ I will cover the following topics in this tutorial:
 - Adding interactions
   - 4.1 Interactive plots with widgets
   - 4.2 Linking behavior
-- Example application: World Happiness Report
-- Example application: Airbnb NYC data
+- Example application: World Happiness Report [dataset](https://www.kaggle.com/unsdsn/world-happiness)
+- Example application: Airbnb NYC data [dataset](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
